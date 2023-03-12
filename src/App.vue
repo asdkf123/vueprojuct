@@ -65,6 +65,7 @@ export default {
 
 body {
   margin : 0;
+  padding: 10px;
 }
 div {
   box-sizing: border-box;
